@@ -1,4 +1,4 @@
-# 🧠 vfs-easy (🇺🇦 [Читати українською](./README_UA.md))
+# 🧠 vfs-easy
 
 > A lightweight virtual file system with CLI, daemon and Unix socket API  
 > 🦀 Built with Rust for cybertools, hacking fun, and real system extensibility
@@ -105,3 +105,5 @@ vfs save .fs/mydata.vfs
 ## 🧬 Author
 
 This project was built as an experiment in building minimal virtual file systems and powerful CLI experiences in Rust.
+
+🇺🇦 [Читати українською](./README_UA.md)
