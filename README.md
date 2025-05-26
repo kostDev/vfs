@@ -1,6 +1,4 @@
-# 🧠 vfs-easy
-
-- 🇺🇦 [Читати українською](./README_UA.md)
+# 🧠 vfs-easy (🇺🇦 [Читати українською](./README_UA.md))
 
 > A lightweight virtual file system with CLI, daemon and Unix socket API  
 > 🦀 Built with Rust for cybertools, hacking fun, and real system extensibility
